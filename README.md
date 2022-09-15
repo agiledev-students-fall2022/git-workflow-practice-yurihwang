@@ -1,6 +1,3 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
-
 [White House to Tech World](https://www.theregister.com/2022/09/14/white_house_software_security_guidance/)
 
 These days, big tech companies are getting even bigger, big enough to have their own set of rules. Most of their power comes from the amount and quality of data they own. A lot of them come directly from the users, through the agreement on collection of personal data for personalized ads. Because companies like Google or Facebook have set this as the default, some countries such as France have fined them for violation on personal information protection acts. However, these companies are still gaining power, now no longer limited just in the market. A lot of them are now leading and making the culture with a big, strong network. They will soon be holding power equivalent to a nation or be deemed equivalent to a nation, which can be seem as a threat to the traditional federal government. So the government is making so many regulations to be able to control them. And to make that possible, the government must provide a programming education of good quality instead of large quantity. 
